@@ -1,5 +1,5 @@
-# taller1-2bim
-
+# taller8
+## Representación gráfica y diseño de la solución de problemas con pseudocódigo aplicando arreglos unidimensionales.
 A. Pasar las miniespecificaciones de la carpeta ejemplos a soluciones en miniespecificaciones (usando ciclo Mientras) y diagramas de flujo.
 
 
