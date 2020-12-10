@@ -1,0 +1,25 @@
+//  Ejemplo de uso de arreglos 
+1.  Inicio
+2.  (notasEstudiante(3),i[0-n])
+2.  (notasEstudianteCualitativo(3), x(20)[{a-z}, {BS}])
+3.  indice, i[0-n]
+7.  notasEstudiante[0] <-- 8
+8.  notasEstudiante[1] <-- 9
+9.  notasEstudiante[2] <-- 10
+11. Para(indice<--0, indice<3, 1) haga
+12.   Si notasEstudiante[i]>5 entonces
+12.     notasEstudianteCualitativo[i] <- "Buena"
+13.   Caso Contrario
+12.     notasEstudianteCualitativo[i] <- "Mala"
+14.   FinSi
+13. Fin_Para 
+11. Para(indice<--0, indice<3, 1) haga
+12.     Escribir notasEstudiante[i], "---" + notasEstudianteCualitativo[i] 
+13. Fin_Para 
+14. Fin
+
+
+
+
+
+
