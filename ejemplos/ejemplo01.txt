@@ -1,21 +1,21 @@
 //  Ejemplo de uso de arreglos 
 1.  Inicio
 2.  (notasEstudiante1(3),i[0-n])
-2.  (notasEstudiante2(3),i[0-n])
-3.  indice, i[0-n]
-3.  suma, i[0-n]
-4.  notasEstudiantes1[0] <-- 9
-5.  notasEstudiantes1[1] <-- 10
-6.  notasEstudiantes1[2] <-- 7
-7.  notasEstudiantes2[0] <-- 8
-8.  notasEstudiantes2[1] <-- 9
-9.  notasEstudiantes2[2] <-- 10
-11. Para(indice<--0, indice<3, 1) haga
-12.   suma <- suma + notasEstudiante1[i]
-12.   suma <- suma + notasEstudiante2[i]
-13. Fin_Para 
-12. Escribir suma
-14. Fin
+3.  (notasEstudiante2(3),i[0-n])
+4.  indice, i[0-n]
+5.  suma, i[0-n]
+6.  notasEstudiantes1[0] <-- 9
+7.  notasEstudiantes1[1] <-- 10
+8.  notasEstudiantes1[2] <-- 7
+9.  notasEstudiantes2[0] <-- 8
+10. notasEstudiantes2[1] <-- 9
+11. notasEstudiantes2[2] <-- 10
+12. Para(indice<--0, indice<3, 1) haga
+13.   suma <- suma + notasEstudiante1[i]
+14.   suma <- suma + notasEstudiante2[i]
+15. Fin_Para 
+16. Escribir suma
+17. Fin
 
 
 
